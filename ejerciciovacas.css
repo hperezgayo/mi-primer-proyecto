@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(238, 162, 11);
+    font-family: sans-serif;
+}
+header.container{
+background: url(https://media.metrolatam.com/2017/07/20/webhtdocswpcontentuploadssites3620160513foto0000000420160513185359vacasbeneficiosamigaslechesaludistockphoto-600x400.jpg);
+background-repeat: no-repeat center center;
+background-size: 1000px 800px;
+ 
+}
+
+h1{
+    text-align: center;
+}
+
+nav{
+   
+}
+ section fieldset{
+     background-color: white;
+ }
+
